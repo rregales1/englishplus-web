@@ -1,1 +1,1 @@
-{"series":[{"serie":"Game of Thrones","file":"series/game-of-thrones.json","episodes":73},{"serie":"Seinfeld","file":"series/seinfeld.json","episodes":43}]}
+{"series":[{"serie":"Game of Thrones","file":"series/game-of-thrones.json","episodes":73},{"serie":"Pel·licules","file":"series/pel-licules.json","episodes":6,"films":true},{"serie":"Seinfeld","file":"series/seinfeld.json","episodes":43}]}
