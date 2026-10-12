@@ -1,1 +1,13 @@
+# Els subtítols no es publiquen mai: ni els fitxers, ni res de dins.
+# «Publicar capitols» puja tot el que hi ha en aquesta carpeta (git add .), o sigui que
+# qualsevol subtítol o zip que hi anés a parar sortiria a internet.
 *.srt
+*.vtt
+*.ass
+*.ssa
+*.sub
+*.idx
+*.sup
+*.zip
+*.rar
+*.7z
